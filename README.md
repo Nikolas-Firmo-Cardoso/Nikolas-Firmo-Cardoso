@@ -1,8 +1,16 @@
-### Hi there 👋
+###  EN - Hi there 👋
 
 I'm Nikolas, and my focus is to be a frontend web developer programmer that can beat good challanges and solve some problems. I'm passionate about technology and how it can make people's lives faster, happy and inclusive.
 
 I'm currently a student at Trybe, which is a programming school that teaches us how to learn the right way and how to solve problems using programming logic with baby steps.
+
+----------------------------------
+
+### PT - Olá 👋
+
+Eu sou Nikolas, e meu foco é ser um programador web frontend que possa vencer bons desafios e resolver alguns problemas. Sou apaixonado por tecnologia e como ela pode tornar a vida das pessoas mais rápida, feliz e inclusiva.
+
+Atualmente sou aluno da Trybe, que é uma escola de programação que nos ensina como aprender da maneira certa e como resolver problemas usando lógica de programação com pequenos passos.
 
 <div align="center">
   <a href="https://github.com/Nikolas-Firmo-Cardoso">
